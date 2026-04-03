@@ -1,0 +1,3 @@
+mybot/
+  bot.py
+  requirements.txt
