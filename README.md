@@ -9,7 +9,7 @@ import threading
 import time
 
 # ===== التوكن من Render =====
-TOKEN = os.getenv("TOKEN")
+TOKEN = os.getenv("8686210830:AAGZmXopHLTELnyszWr7wsyhouPmr74vVjk")
 bot = telebot.TeleBot(TOKEN)
 
 # ===== ملفات =====
